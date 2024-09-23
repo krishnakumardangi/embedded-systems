@@ -18,7 +18,7 @@ These commands contain the arguments that work in most use cases - every once in
     * Locally: ``vivado -mode batch -source build.tcl``
 - Flashing the FPGA: ``openFPGALoader -b arty_s7_50 out.bit``
 - Simulating a testbench:
-    * ``iverilog -g2012 -o foo.out sim/foo_tb.sv src/foo.sv followed by vvp foo.out``
+    * ``iverilog -g2012 -o foo.out sim/foo_tb.sv src/foo.sv`` followed by ``vvp foo.out``
     * Add all the files that iVerilog should be aware of to the command line args. For instance, if your testbench foo_tb makes an instance of foo and foo contains an instance of bar, then you'll need to add the files that contain foo and bar to the command line args.
 - Opening GTKWave:
     * Windows/Linux: ``gtkwave foo.vcd``
