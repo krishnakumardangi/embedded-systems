@@ -3,9 +3,9 @@ Software Setup and Usage
 
 We have three big "parts" of software that we use in 6.205. You need access to all three of them and should go through the installation steps below for each:
 
-    - [GTKWave/iVerilog](https://fpga.mit.edu/6205/F23/documentation/iVerilog): The open-source software we use to simulate and test our digital designs!
-    - [Vivado](https://fpga.mit.edu/6205/F23/documentation/vivado): The propietary software we use to generate our digital designs!
-    - [openFPGAloader](https://fpga.mit.edu/6205/F23/documentation/openFPGA): An open-source cross-platform bit-file flasher which we use to get our designs on our FPGA!
+- [GTKWave/iVerilog](https://fpga.mit.edu/6205/F23/documentation/iVerilog): The open-source software we use to simulate and test our digital designs!
+- [Vivado](https://fpga.mit.edu/6205/F23/documentation/vivado): The propietary software we use to generate our digital designs!
+- [openFPGAloader](https://fpga.mit.edu/6205/F23/documentation/openFPGA): An open-source cross-platform bit-file flasher which we use to get our designs on our FPGA!
 
 We also have a growing collection of Windows tips.
 
@@ -27,20 +27,20 @@ These commands contain the arguments that work in most use cases - every once in
 
 SystemVerilog Standard 2017
 
-    - [2017 SystemVerilog Standard](https://fpga.mit.edu/6205/_static/F23/documentation/1800-2017.pdf)
+- [2017 SystemVerilog Standard](https://fpga.mit.edu/6205/_static/F23/documentation/1800-2017.pdf)
 
 External Hardware and IP Cores
 
-    - [Camera Board software](https://fpga.mit.edu/6205/F23/documentation/ov7670)
-    - [DRAM (for reference from the Nexys boards...we are currently working on something for the Urbana board)](https://fpga.mit.edu/6205/F23/documentation/dram)
-    - [Starter Designs (kind of janky). These were all developed for the Nexys board, but can at least get you started. Reach out Piazza for particular things like some modifications for the SD card)](https://github.mit.edu/6205/starter_designs)
-    - [How to Debug](https://fpga.mit.edu/6205/F23/documentation/debugging)
+- [Camera Board software](https://fpga.mit.edu/6205/F23/documentation/ov7670)
+- [DRAM (for reference from the Nexys boards...we are currently working on something for the Urbana board)](https://fpga.mit.edu/6205/F23/documentation/dram)
+- [Starter Designs (kind of janky). These were all developed for the Nexys board, but can at least get you started. Reach out Piazza for particular things like some modifications for the SD card)](https://github.mit.edu/6205/starter_designs)
+- [How to Debug](https://fpga.mit.edu/6205/F23/documentation/debugging)
 
 Verilog References
 
-    - [Verilog Style Guide](https://fpga.mit.edu/6205/F23/documentation/verilog_style)
+- [Verilog Style Guide](https://fpga.mit.edu/6205/F23/documentation/verilog_style)
 
 IP Simulation
 
-    - [Quick notes on how to simulate IP](https://fpga.mit.edu/6205/F23/documentation/ip_simulation)
+- [Quick notes on how to simulate IP](https://fpga.mit.edu/6205/F23/documentation/ip_simulation)
 
